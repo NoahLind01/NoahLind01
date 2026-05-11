@@ -1,4 +1,4 @@
-# PhD Candidate | Dept. of Biological Science | Vanderbilt University
+# PhD Student | Dept. of Biological Science | Vanderbilt University
 
 I am a molecular and computational biologist currently pursuing my PhD in the Plate Lab at Vanderbilt University. My research investigates how the structural integrity of the ribosome orchestrates co-translational quality control. By using fast-misfolding proteins (like P67L-CFTR) as translational biosensors, I study how targeted ribosomal stress can remodel the global chaperome and act as a "biological substitute" for pharmacological therapeutics.
 
